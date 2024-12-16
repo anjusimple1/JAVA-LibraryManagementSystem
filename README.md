@@ -26,6 +26,6 @@ User Functions: Users can search for books by title and view available books.
 **Acknowledgements**
 # Team Members:
 1) A M Geethanjali (RVIT24BIS401)
-2) Sungini Rijhwani
+2) Sungini Rijhwani (1RF23IS095)
 3) S A Nandhini (1RF23IS072)
 # Thanks to Java Swing for the graphical user interface.
